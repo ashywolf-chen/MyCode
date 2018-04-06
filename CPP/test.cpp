@@ -11,6 +11,8 @@ int main(int argc, char *args[])
         printf("%d:%s\n", i, args[i]);
     }
 
+    printf("Test!!\n");
+
     getchar();
     return 0;
 }
