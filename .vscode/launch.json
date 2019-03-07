@@ -5,16 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "java",
-            "name": "Java (Launch)",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "stopOnEntry": false,
-            "mainClass": "HelloWorld",
-            "args": ""
-        },
-        {
             "name": "Python Console",
             "type": "python",
             "request": "launch",
